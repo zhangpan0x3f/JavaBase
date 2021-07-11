@@ -11,6 +11,12 @@
     <modules>
         <module>Design-pattern</module>
         <module>JUC</module>
+        <module>data-structure</module>
+        <module>OS</module>
+        <module>Network</module>
+        <module>Computer-Organization</module>
+        <module>JVM</module>
+        <module>JavaCore</module>
     </modules>
 
     <properties>
